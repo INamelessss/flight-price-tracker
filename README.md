@@ -37,7 +37,7 @@ Contributions are welcome. If you find bugs or improvements, feel free to fork t
 
 ## Contact
 
-If you have any questions or suggestions, you can contact me at [your email here] or through my GitHub profile.
+If you have any questions or suggestions, you can contact me at alejanessan@gmail.com or through my GitHub profile.
 
 ------------
 [ES]
@@ -79,7 +79,7 @@ Las contribuciones son bienvenidas. Si encuentras errores o mejoras, siéntete l
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia, puedes contactarme en [tu correo electrónico aquí] o a través de mi perfil de GitHub.
+Si tienes alguna pregunta o sugerencia, puedes contactarme en alejanessan@gmail.com o a través de mi perfil de GitHub.
 
 ----------
 
